@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MemoApp</string>
+    <string name = "title_text">タイトル</string>
+    <string name = "place_text">場所</string>
+    <string name = "main_text">メモ</string>
+    <string name = "view_text">一覧表示</string>
+    <string name = "save_text">保存</string>
+    <string name = "reset_text">リセット</string>
+    <string name = "confirm_text">入力されていない項目があります。\nこのまま保存しますか？</string>
+    <string name = "confirm_ok">OK</string>
+    <string name = "confirm_cancel">NG</string>
+</resources>
